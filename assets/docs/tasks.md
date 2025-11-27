@@ -2,7 +2,7 @@
 
 - [ ] **Análise e Pré-processamento de Dados**
     - [ ] Criar Notebook Jupyter (`notebooks/grain_classification.ipynb`)
-    - [ ] Carregar [assets/seeds_dataset.txt](file:///c:/Users/defaultuser0/Documents/fiap/projetcts/fase4/fase4-cap3-ml-graos/assets/seeds_dataset.txt) e inspecionar estrutura
+    - [ ] Carregar [assets/seeds_dataset.txt] e inspecionar estrutura
     - [ ] Calcular estatísticas descritivas (média, mediana, desvio padrão)
     - [ ] Visualizar distribuições (histogramas, boxplots)
     - [ ] Analisar correlações (gráficos de dispersão, mapa de calor)
