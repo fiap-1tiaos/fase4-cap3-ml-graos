@@ -1,24 +1,24 @@
 # Tarefas: Classificação de Grãos com Machine Learning
 
 - [ ] **Análise e Pré-processamento de Dados**
-    - [ ] Criar Notebook Jupyter (`notebooks/grain_classification.ipynb`)
-    - [ ] Carregar [assets/seeds_dataset.txt] e inspecionar estrutura
-    - [ ] Calcular estatísticas descritivas (média, mediana, desvio padrão)
-    - [ ] Visualizar distribuições (histogramas, boxplots)
-    - [ ] Analisar correlações (gráficos de dispersão, mapa de calor)
-    - [ ] Tratar valores ausentes (se houver)
-    - [ ] Aplicar escalonamento/normalização
-- [ ] **Implementação e Comparação de Modelos**
-    - [ ] Separar dados em conjuntos de Treino/Teste (70/30)
-    - [ ] Treinar modelo KNN
-    - [ ] Treinar modelo SVM
-    - [ ] Treinar modelo Random Forest
-    - [ ] Avaliar modelos (Acurácia, Precisão, Recall, F1, Matriz de Confusão)
-    - [ ] Comparar desempenho dos modelos
-- [ ] **Otimização de Modelos**
-    - [ ] Realizar Ajuste de Hiperparâmetros (Grid/Random Search) para os melhores modelos
-    - [ ] Retreinar modelos com os melhores parâmetros
-    - [ ] Reavaliar e verificar melhorias
-- [ ] **Interpretação e Insights**
-    - [ ] Analisar resultados no contexto da classificação de grãos
-    - [ ] Documentar conclusões e insights no notebook
+    - [x] Criar Notebook Jupyter (`notebooks/grain_classification.ipynb`)
+    - [x] Carregar `assets/seeds_dataset.txt` e inspecionar estrutura
+    - [x] Calcular estatísticas descritivas (média, mediana, desvio padrão)
+    - [x] Visualizar distribuições (histogramas, boxplots)
+    - [x] Analisar correlações (gráficos de dispersão, mapa de calor)
+    - [x] Tratar valores ausentes (se houver)
+    - [x] Aplicar escalonamento/normalização
+- [x] **Implementação e Comparação de Modelos**
+    - [x] Separar dados em conjuntos de Treino/Teste (70/30)
+    - [x] Treinar modelo KNN
+    - [x] Treinar modelo SVM
+    - [x] Treinar modelo Random Forest
+    - [x] Avaliar modelos (Acurácia, Precisão, Recall, F1, Matriz de Confusão)
+    - [x] Comparar desempenho dos modelos
+- [x] **Otimização de Modelos**
+    - [x] Realizar Ajuste de Hiperparâmetros (Grid/Random Search) para os melhores modelos
+    - [x] Retreinar modelos com os melhores parâmetros
+    - [x] Reavaliar e verificar melhorias
+- [x] **Interpretação e Insights**
+    - [x] Analisar resultados no contexto da classificação de grãos
+    - [x] Documentar conclusões e insights no notebook
