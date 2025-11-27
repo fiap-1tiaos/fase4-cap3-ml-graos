@@ -5,13 +5,12 @@ Desenvolver um modelo de Machine Learning para classificar variedades de grãos 
 
 ## Revisão do Usuário Necessária
 > [!IMPORTANT]
-> Por favor, confirme se o arquivo [assets/seeds_dataset.txt] possui cabeçalhos ou se eles precisam ser definidos manualmente com base na descrição.
 > Colunas: Área, Perímetro, Compacidade, Comprimento do Núcleo, Largura do Núcleo, Coeficiente de Assimetria, Comprimento do Sulco do Núcleo, Classe.
 
 ## Alterações Propostas
 
 ### Estrutura do Projeto
-#### [NOVO] [grain_classification.ipynb]
+#### [grain_classification.ipynb]
 - Notebook Jupyter principal contendo toda a análise e código.
 
 ### Dependências
