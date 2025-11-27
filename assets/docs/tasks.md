@@ -1,0 +1,24 @@
+# Tarefas: Classificação de Grãos com Machine Learning
+
+- [ ] **Análise e Pré-processamento de Dados**
+    - [ ] Criar Notebook Jupyter (`notebooks/grain_classification.ipynb`)
+    - [ ] Carregar [assets/seeds_dataset.txt](file:///c:/Users/defaultuser0/Documents/fiap/projetcts/fase4/fase4-cap3-ml-graos/assets/seeds_dataset.txt) e inspecionar estrutura
+    - [ ] Calcular estatísticas descritivas (média, mediana, desvio padrão)
+    - [ ] Visualizar distribuições (histogramas, boxplots)
+    - [ ] Analisar correlações (gráficos de dispersão, mapa de calor)
+    - [ ] Tratar valores ausentes (se houver)
+    - [ ] Aplicar escalonamento/normalização
+- [ ] **Implementação e Comparação de Modelos**
+    - [ ] Separar dados em conjuntos de Treino/Teste (70/30)
+    - [ ] Treinar modelo KNN
+    - [ ] Treinar modelo SVM
+    - [ ] Treinar modelo Random Forest
+    - [ ] Avaliar modelos (Acurácia, Precisão, Recall, F1, Matriz de Confusão)
+    - [ ] Comparar desempenho dos modelos
+- [ ] **Otimização de Modelos**
+    - [ ] Realizar Ajuste de Hiperparâmetros (Grid/Random Search) para os melhores modelos
+    - [ ] Retreinar modelos com os melhores parâmetros
+    - [ ] Reavaliar e verificar melhorias
+- [ ] **Interpretação e Insights**
+    - [ ] Analisar resultados no contexto da classificação de grãos
+    - [ ] Documentar conclusões e insights no notebook
